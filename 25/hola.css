@@ -1,0 +1,9 @@
+.logo_1{
+	width: 500px;
+	height: 500px;
+}
+
+.logo_2{
+	max-height: 500px;
+	max-width: 500px;
+}
